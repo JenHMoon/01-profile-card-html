@@ -1,0 +1,26 @@
+
+.profile-card {
+	background: #e3f2fd;
+	max-width: 400px;
+	margin: 40px auto;
+	padding: 2em;
+	border-radius: 12px;
+	box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.profile-card h1 {
+	font-size: 2.5em;
+	margin-bottom: 0.2em;
+	text-align: center;
+	color: #0d2357;
+}
+
+.profile-card h2 {
+	font-size: 1.5em;
+	margin-top: 0;
+	font-weight: 500;
+	text-align: center;
+	color: #494a4c;
+}
